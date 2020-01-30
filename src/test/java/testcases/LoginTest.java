@@ -27,6 +27,9 @@ public class LoginTest {
 		
 		driver.findElement(By.id("identifierId")).sendKeys("g.divya.us@gmail.com");
 		
+		/*
+		 * added comments for jenkins
+		 */
 	}
 	@AfterSuite
 	public void tearDOwn() {
